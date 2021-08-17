@@ -13,3 +13,19 @@ Assignment (done):
   
 Day 2:
     https://github.com/redashu/oracle16thaug2021/tree/day2
+  
+  Assignment 1(done):
+    1. Create one container named with  <yourname>cg1 
+    2. choose busybox as docker image
+    3. choose any parent process that must run for atleast 20 minutes 
+    4. container must not exceed more than 30% of single core CPU 
+    5. after container creation update max use RAM usage to 300MB for this container 
+    6. After RAM update  in this container also update restart policy to always for this container
+  
+  Assignment 2:
+    1. Create a container named  <yourname>cimg 
+    2. choose centos as docker image
+    3. Install vim and httpd software inside a running container 
+    4. Now create a docker image from this running container 
+    5. make sure this docker  image name must be  <yourname>cimg:v007  
+    6. check it by docker images

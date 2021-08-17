@@ -9,3 +9,7 @@ Assignment (done):
   3. choose whatever parent process 
   4. In container 1st create a file called  helloc1.txt , file must container some data 
   5. now copy helloc1.txt to  2nd container
+
+  
+Day 2:
+    https://github.com/redashu/oracle16thaug2021/tree/day2

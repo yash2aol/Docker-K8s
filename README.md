@@ -41,3 +41,5 @@ Day 3:
         6. maintainer parent process by ENTRYPOINT 
         7. build image by the name  <yourname>alp:pycodev1 
         8. create a container from the build image and check the output of your python program
+    
+    Docker compose examples: https://github.com/redashu/docker-compose

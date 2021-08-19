@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+ name: yashpod-1
+spec:
+ containers:
+ - image: alpine
+   name: yashc1
+   command: ["sh", "-c", "ping fb.com"]
+

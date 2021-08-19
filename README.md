@@ -42,4 +42,16 @@ Day 3:
         7. build image by the name  <yourname>alp:pycodev1 
         8. create a container from the build image and check the output of your python program
     
-    Docker compose examples: https://github.com/redashu/docker-compose
+    Docker compose examples: https://github.com/redashu/docker-compose 
+
+Day 4:
+    https://github.com/redashu/oracle16thaug2021/tree/day4 
+    
+    Assignment 1(done):
+        1. Create pod named  <yourname>pod1
+        2. In POd docker image will be busybox 
+        3. choose ping fb.com as default process
+        4. check output of default process and store in a file  called logs.txt 
+        5. logs.txt must be stored on your pods under /opt/logs.txt 
+        6. check that pods is scheduled in which minion node and store that name in logs.txt 
+        7. make sure previous data in logs.txt must be present

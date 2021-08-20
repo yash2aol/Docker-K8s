@@ -55,3 +55,9 @@ Day 4:
         5. logs.txt must be stored on your pods under /opt/logs.txt 
         6. check that pods is scheduled in which minion node and store that name in logs.txt 
         7. make sure previous data in logs.txt must be present
+        
+Day 5:
+    https://github.com/redashu/oracle16thaug2021/tree/day5
+    
+    Assignment:
+        NONE
